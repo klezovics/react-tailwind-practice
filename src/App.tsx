@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div className={"text-red-500"}>Hi</div>
+      <div className={"text-orange-100"}>Bye!</div>
     </>
   )
 }
